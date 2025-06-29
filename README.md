@@ -2,15 +2,27 @@
 
 ---
 
-O **FS Optimizer** é um modpack de **otimização extrema** para Minecraft 1.20.1 (Forge), criado para **aumentar o desempenho** tanto no **cliente quanto no servidor**.
+# ⚙️ FS Optimizer – Modpack de Otimização Extrema
+
+O **FS Optimizer** é um modpack de **otimização extrema** para Minecraft 1.20.1 (Forge), criado para **aumentar o desempenho** tanto no **cliente quanto no servidor**.  
 Ele reduz uso de memória RAM, acelera o carregamento do jogo, melhora o desempenho de mundo e alivia o peso de modpacks pesados — **sem alterar o visual ou a jogabilidade original**.
 
 ---
 
 ### 🔧 Principais benefícios:
 
-* **Iniciação mais rápida do launcher e do jogo**
-* **Redução no uso de CPU e RAM**
-* **Melhoria de performance em tempo real (entidades, chunks, etc.)**
-* **Funciona com modpacks grandes**
-* **Compatível com Forge 47.4.0+**
+- 🚀 **Iniciação mais rápida do launcher e do jogo**
+- 💾 **Redução no uso de CPU e RAM**
+- 🌍 **Melhoria de performance em tempo real (entidades, chunks, etc.)**
+- 📦 **Funciona com modpacks grandes**
+- 🔗 **Compatível com Forge 47.4.0+**
+
+---
+
+## 📢 Aviso de uso obrigatório
+
+Caso o **FS Optimizer** seja utilizado em qualquer modpack, **os devidos créditos são obrigatórios**.  
+Adicione um botão ou link visível direcionando para a página oficial do projeto:
+
+> 🔗 [FS Optimizer gifhub]([https://github.com/FluxsyumStudios/FS-Optimizer]
+---
