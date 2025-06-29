@@ -8,7 +8,7 @@ O **FS Optimizer Client** oferece excelente desempenho, mesmo quando utilizado e
 * 🚀 **Redução significativa no tempo de carregamento do launcher.**
 * ⚙️ **Otimização de verificações internas** do jogo e da interface gráfica.
 * 🧠 **Ajustes automáticos em configurações do Embeddium**, melhorando o desempenho sem comprometer a experiência visual.
-* 💾 **Uso de memória RAM reduzido em até 50%**, quando comparado a um modpack sem mods de otimização dedicados.
+* 💾 **Uso de memória RAM reduzido em até 80%**, quando comparado a um modpack sem mods de otimização dedicados.
 
 > ⚠️ O FS Optimizer não altera visualmente o jogo, mas realiza diversas modificações internas que **melhoram a eficiência geral do cliente**.
 
