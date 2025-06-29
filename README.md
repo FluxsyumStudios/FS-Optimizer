@@ -26,3 +26,5 @@ Adicione um botão ou link visível direcionando para a página oficial do proje
 
 > 🔗 [FS Optimizer gifhub]([https://github.com/FluxsyumStudios/FS-Optimizer]
 ---
+
+© 2024 Fluxsyum Studios. Todos os direitos reservados.
