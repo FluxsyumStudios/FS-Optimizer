@@ -1,4 +1,4 @@
-![alt text](https://media.discordapp.net/attachments/1284858760669560917/1388683703978430485/20250628_215310.png?ex=686288bb&is=6861373b&hm=bf76df3d7466a669c8d8d1201e387675c3d0181addf0c8429b0d9d9d29d64ade&=&format=webp&quality=lossless&width=1232&height=481)
+![Fluxsyum Optimizer](https://media.discordapp.net/attachments/1284858767925710910/1388933685914632333/20250629_142624.png?ex=6862c8cb&is=6861774b&hm=310197f2b7c7d65ddbd097c4a47faa719578a3659c40a0d0af38f60310e52aaa&=&format=webp&quality=lossless&width=1232&height=367)
 
 ## 📦 O que é o FS Optimizer?
 
