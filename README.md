@@ -15,7 +15,6 @@ Ele reduz uso de memória RAM, acelera o carregamento do jogo, melhora o desempe
 - 💾 **Redução no uso de CPU e RAM**
 - 🌍 **Melhoria de performance em tempo real (entidades, chunks, etc.)**
 - 📦 **Funciona com modpacks grandes**
-- 🔗 **Compatível com Forge 47.4.0+**
 
 ---
 
@@ -24,7 +23,7 @@ Ele reduz uso de memória RAM, acelera o carregamento do jogo, melhora o desempe
 Caso o **FS Optimizer** seja utilizado em qualquer modpack, **os devidos créditos são obrigatórios**.  
 Adicione um botão ou link visível direcionando para a página oficial do projeto:
 
-> 🔗 [FS Optimizer gifhub]([https://github.com/FluxsyumStudios/FS-Optimizer]
+> 🔗 [FS Optimizer Gifhub]([https://github.com/FluxsyumStudios/FS-Optimizer]
 ---
 
 © 2024 Fluxsyum Studios. Todos os direitos reservados.
