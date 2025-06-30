@@ -122,7 +122,6 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.modernfix.config:key.keyboard.unknown
-key_key.commandkeys.main.edit:key.keyboard.k
 key_iris.keybind.reload:key.keyboard.minus
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -130,6 +129,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_chloride.zoom:key.keyboard.c
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_ponder.keyinfo.ponder:key.keyboard.w
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
