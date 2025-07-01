@@ -4,7 +4,8 @@
 
 # ⚙️ FS Optimizer – Modpack de Otimização Extrema
 
-O **FS Optimizer** é um modpack de **otimização extrema** para Minecraft, criado para **aumentar o desempenho** tanto no **cliente quanto no servidor**.  
+O **FS Optimizer** é um modpack de **otimização extrema** para Minecraft, criado para **aumentar o desempenho** tanto no **cliente quanto no servidor**.
+
 Ele reduz uso de memória RAM, acelera o carregamento do jogo, melhora o desempenho de mundo e alivia o peso de modpacks pesados — **sem alterar o visual ou a jogabilidade original**.
 
 ---
