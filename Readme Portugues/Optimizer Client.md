@@ -1,4 +1,3 @@
-
 ## FS Optimizer (Client) 
 
 O **FS Optimizer Client** oferece excelente desempenho, mesmo quando utilizado em modpacks grandes. Ele atua otimizando o **tempo de inicialização do modpack**, além de melhorar o desempenho geral do jogo.

@@ -9,7 +9,7 @@ enable_lightmap_caching: true
 # Higher values will result in less frequent updates
 # to block lighting, but slightly better performance.
 # Values below 2 will disable the optimization.
-lightmap_time_change_needed_for_update: 80
+lightmap_time_change_needed_for_update: 100
 
 # Whether the sky's color should be cached unless you're on a biome border.
 enable_sky_color_caching: true
@@ -56,18 +56,18 @@ enable_remove_tutorial_if_not_demo: true
 
 # Whether BadOptimizations <version> should be added onto
 # the left text of the F3 menu.
-show_f3_text: true
+show_f3_text: false
 
 # Some config options will be force-disabled if certain mods are present
 # due to incompatibilities (e.g. entity rendering caching
 # is disabled w/ Twilight Forest / BedrockSkinUtility / SkinShuffle).
 # However, if you still want to use the optimizations, you can override it
 # by setting this to true. Beware of crashes. And Herobrine.
-ignore_mod_incompatibilities: false
+ignore_mod_incompatibilities: true
 
 # Whether to log the entire config into console when booting up.
 # If you plan on reporting an issue, please keep this on.
-log_config: true
+log_config: false
 
 # Do not change this
 config_version: 4

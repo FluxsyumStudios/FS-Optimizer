@@ -1,1 +1,14 @@
-{}
+{
+  "idle": {
+    "timeout": 120,
+    "condition": "none"
+  },
+  "states": {
+    "invisible": {
+      "frame_rate_target": 1
+    },
+    "abandoned": {
+      "frame_rate_target": 1
+    }
+  }
+}

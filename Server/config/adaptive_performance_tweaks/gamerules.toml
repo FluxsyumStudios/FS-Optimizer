@@ -31,7 +31,7 @@
 
 ["Elytra Movement Check"]
 	#Enable/Disable dynamic elytra movement check adjustments.
-	elytraMovementCheckEnabled = true
+	elytraMovementCheckEnabled = false
 
 [Raids]
 	#Enable/Disable dynamic raids adjustments.
