@@ -12,7 +12,7 @@ Ele reduz uso de memória RAM, acelera o carregamento do jogo, melhora o desempe
 
 ### 🔧 Principais benefícios:
 
--   ![Foguete](https://media.discordapp.net/attachments/1284858767925710910/1389755648010485825/download8.jpeg?ex=6865c64e&is=686474ce&hm=c2a6986c8a3d380a522e2d0c1fa4b2be4913d364cb38c235bfcd26a5538e9a9f&=&format=webp)   **Iniciação mais rápida do launcher e do jogo**
+-  ![Foguete](https://media.discordapp.net/attachments/1284858767925710910/1389758807017783438/download9.jpeg?ex=6865c940&is=686477c0&hm=b40164cd7b477e1642e03e10e165b11d1235b4836b32cefef2413829a293204d&=&format=webp)  **Iniciação mais rápida do launcher e do jogo**
 - ![Ram](https://media.discordapp.net/attachments/1284858767925710910/1389754470497255504/download6.jpeg?ex=6865c536&is=686473b6&hm=afa1585f77e8add8e6e931c4b21c350d40049f98900d0ed777dd6311d2dbcd23&=&format=webp)  **Redução no uso de CPU e RAM**
 -  ![Zombie](https://media.discordapp.net/attachments/1284858767925710910/1389753725106655252/download5.jpeg?ex=6865c484&is=68647304&hm=afada0ee7566f3a667c72fb0ebb115f5152517bcd6a244949d38d969fe694e61&=&format=webp)   **Melhoria de performance em tempo real (entidades, chunks, etc.)**
 - ![AllTheMods](https://media.discordapp.net/attachments/1284858767925710910/1389753316853940274/download4.jpeg?ex=6865c423&is=686472a3&hm=d5cf6ab7aec5331572fe3113347a708dae95f1af400f5d3e3361e70b9fab9b75&=&format=webp)  **Funciona com modpacks grandes**
