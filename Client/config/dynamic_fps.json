@@ -3,12 +3,28 @@
     "timeout": 120,
     "condition": "none"
   },
+  "battery_tracker": {
+    "critical_level": 1,
+    "notifications": false
+  },
+  "download_natives": false,
   "states": {
     "invisible": {
-      "frame_rate_target": 1
+      "frame_rate_target": 1,
+      "graphics_state": "minimal"
     },
     "abandoned": {
-      "frame_rate_target": 1
+      "frame_rate_target": 1,
+      "graphics_state": "minimal",
+      "show_toasts": true
+    },
+    "hovered": {
+      "frame_rate_target": 1,
+      "graphics_state": "reduced",
+      "show_toasts": false
+    },
+    "unfocused": {
+      "graphics_state": "minimal"
     }
   }
 }
