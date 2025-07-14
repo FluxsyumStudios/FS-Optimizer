@@ -20,9 +20,9 @@ Ele reduz uso de memória RAM, acelera o carregamento do jogo, melhora o desempe
 - ![Jei](https://media.discordapp.net/attachments/1284858767925710910/1389752493231181934/download3.jpeg?ex=6865c35e&is=686471de&hm=4522998fc26ee20cc8ff3d87ae794cd3c367c00e2fd6796308c306ca60f7b948&=&format=webp)  **Melhora a performace do mod Just Enough Items (JEI)**
 - ![Create](https://media.discordapp.net/attachments/1284858767925710910/1389752492950290432/download2.jpeg?ex=6865c35e&is=686471de&hm=302eda50b75f8b8881ae369e0a266deed96f25ac7cda4797cc3dad52a3b028e9&=&format=webp)  **Melhora a performace do mod Create**
 - ![Minecraft](https://media.discordapp.net/attachments/1284858767925710910/1389761108532789398/download10.jpeg?ex=6865cb64&is=686479e4&hm=99e4ac02633ccf86f99b1e8badf53ae9438ae58f55aaf346d1a4a7be2071a011&=&format=webp)
-  **Melhora a performace do mod JourneyMap**
-* ![JourneyMap](https://media.discordapp.net/attachments/1390876046928117892/1394680155145895946/download.jpeg?ex=6877b09c&is=68765f1c&hm=cbb1da8a8c3ba2b52cbbd117fdda934f63b102af7b037c5f7a8c4bd1e0a42ba7&=)
   **Melhora significativamente o desempenho na maioria dos mods**
+* ![JourneyMap](https://media.discordapp.net/attachments/1390876046928117892/1394680155145895946/download.jpeg?ex=6877b09c&is=68765f1c&hm=cbb1da8a8c3ba2b52cbbd117fdda934f63b102af7b037c5f7a8c4bd1e0a42ba7&=)
+  **Melhora a performace do mod JourneyMap**
 ---
 
 ## 🚨 Aviso de uso obrigatório
