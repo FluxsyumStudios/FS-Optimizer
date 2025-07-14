@@ -9,15 +9,15 @@ Ele reduz o uso de RAM, acelera o carregamento do jogo, melhora a performance do
 ---
 
 ### 🔧 Benefícios Principais:
-  🚀 **Inicialização mais rápida do launcher e do jogo**
-  ⚡ **Menor uso de CPU e RAM**
-  🛫 **Aprimoramento de desempenho em tempo real (entidades, chunks, etc.)**
-  🚛 **Compatível com modpacks grandes**
-  🌍 **Suporta Forge, Fabric e NeoForge**
-  🏆 **Melhora o desempenho do Just Enough Items (JEI)**
-  🧱 **Melhora o desempenho do mod Create**
-  🌄 **Melhora o desempenho do mod JourneyMap**
-  🥇 **Aumenta significativamente o desempenho na maioria dos mods**
+- 🚀 **Inicialização mais rápida do launcher e do jogo**
+- ⚡ **Menor uso de CPU e RAM**
+- 🛫 **Aprimoramento de desempenho em tempo real (entidades, chunks, etc.)**
+- 🚛 **Compatível com modpacks grandes**
+- 🌍 **Suporta Forge, Fabric e NeoForge**
+- 🏆 **Melhora o desempenho do Just Enough Items (JEI)**
+- 🧱 **Melhora o desempenho do mod Create**
+- 🌄 **Melhora o desempenho do mod JourneyMap**
+- 🥇 **Aumenta significativamente o desempenho na maioria dos mods**
 ---
 
 Teste realizado em um Intel Core i5-3470 com 8 GB de RAM (6 GB alocados para o Minecraft), utilizando gráficos integrados.
